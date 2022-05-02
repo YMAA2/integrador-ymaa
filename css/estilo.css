@@ -1,0 +1,32 @@
+header nav img {
+    max-height: 4rem;
+}
+
+.background-grey {
+    background-color: #353A40;
+}
+
+button.green-form {
+    background-color: #96C93E;
+}
+
+img.ajuste-imagen {
+    object-fit: cover;
+}
+
+button.verde-hero {
+    background-color: #29A744;
+}
+
+a.verde-header {
+    color: #29A744;
+}
+
+.apartado {
+    text-decoration-line: underline;
+    text-decoration-style: dotted;
+}
+
+footer {
+    background-color: #1D465C;
+}
